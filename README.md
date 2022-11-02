@@ -1,2 +1,2 @@
 # kitty
-##Kitty terminal configuration
+## Kitty terminal configuration
